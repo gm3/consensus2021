@@ -15,6 +15,7 @@ Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](ht
 Event Manager: [Stephanie Izquieta](https://twitter.com/godfreymeyer)
 Production: [Godfrey Meyer](https://twitter.com/godfreymeyer)
 Curators: [Godfrey Meyer](https://twitter.com/godfreymeyer), [Annissa Whale](), [DeCryptolorian(DC)]()
+Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/whale_community), [Discord](https://discord.gg/whale)
 
 
 [![](https://i.imgur.com/8kDMoD3.png)
