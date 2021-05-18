@@ -68,6 +68,7 @@ VR Talk Date(s): TBD
     * [Metageist](https://twitter.com/MetageistVR)
     * [Marc0Matic](https://twitter.com/marc0matic)
     * [DankVR](https://twitter.com/dankvr)
+    * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 * Group 4 TBD 27th at TBD PM Eastern
     * [Van](https://twitter.com/VansDesign_)
     * [Sabet](https://twitter.com/sabet)
@@ -76,7 +77,7 @@ VR Talk Date(s): TBD
     * [RTFKT](https://twitter.com/RTFKTstudios)
     * [Ekaitza ](https://twitter.com/ekaitza_)
     * [Giant Swan ](https://twitter.com/A_Giant_Swan)
-    * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
+
 
 
 
