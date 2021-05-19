@@ -9,7 +9,7 @@ Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for 
 ## Long The Metaverse VR Exhibition Overview
 "Long The Metaverse" VR Exhibition is a special event during CoinDesk Consensus 2021 featuring two galleries showing incredible works from top cryptoartists. We also will host multiple live streams with artist interviews over the course of four days. We invite you to come by the galleries! The spaces are accessible via VR Headset, Desktop PC in your browser, laptops or high end phones, and the streams will be available as archived VoDs after the event. We look forward to seeing you there!
 
-Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Hackatao](https://twitter.com/Hackatao), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [Franky Nines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [CryptoMotors](https://twitter.com/CryptoMotors_io), [Twisted Vacancy](https://twitter.com/twistedvacancy), [RTFKT](https://twitter.com/RTFKTstudios), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
+Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Hackatao](https://twitter.com/Hackatao), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [Franky Nines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [RTFKT](https://twitter.com/RTFKTstudios), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
 
 Event Manager: [Stephanie Izquieta]()
@@ -443,10 +443,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/53](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/53)
 
 ---
-## CryptoMotors
-* Twitter - [https://twitter.com/CryptoMotors_io](https://twitter.com/CryptoMotors_io)
 
----
 ## RTFKT
 * Twitter - [https://twitter.com/RTFKTstudios](https://twitter.com/RTFKTstudios)
 
