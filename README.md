@@ -41,9 +41,9 @@ Exhibit B: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hu
 ---
 ## Schedule
 #### Main Event Dates: **Mon 24th to the Thurs 27th**
-VR Talk Date(s): TBD
+VR Talk Date(s):
 
-* Group 1 TBD 24th at TBD PM Eastern
+* Group 1 **Monday May 24th at 1-1:30PM ET**
     * [Skeenee](https://twitter.com/skeenee_art)
     * [Rare Designer](https://twitter.com/pepe_designer)
     * [Legendary](https://twitter.com/Legendary_NFT)
@@ -51,32 +51,33 @@ VR Talk Date(s): TBD
     * [Reinhard](https://twitter.com/Reinhard_Schmid)
     * [Sturec](https://twitter.com/sturec5)
     * [Hackatao](https://twitter.com/Hackatao)
-* Group 2 TBD 25th at TBD PM Eastern
+
+* Group 2 TBD **Tuesday May 25th at 2:30-3PM ET**
     * [Brendan Dawes](https://twitter.com/brendandawes)
     * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
     * [Arsenic Lullaby](https://twitter.com/arsenic_lullaby)
     * [Franky Nines](https://twitter.com/frankynines)
     * [George Boya](https://twitter.com/BoyaGeorge)
     * [Didier RA](https://twitter.com/DidierRA1)
-    * [Giant Swan](https://twitter.com/A_Giant_Swan)
+    * [Twisted Vacancy](https://twitter.com/twistedvacancy)
 
-* Group 3 **May 26th at TBD PM Eastern**
+* Group 3 **Wendsday May 26th at 2:30-3PM ET**
     * [Coldie](https://twitter.com/Coldie)
-    * [Godfrey Meyer](https://twitter.com/godfreymeyer)
     * [Spaced Painter](https://twitter.com/SpacedPainter)
     * [Josie](https://twitter.com/josiebellini)
     * [Metageist](https://twitter.com/MetageistVR)
     * [Marc0Matic](https://twitter.com/marc0matic)
     * [DankVR](https://twitter.com/dankvr)
     * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
-* Group 4 TBD 27th at TBD PM Eastern
+
+* Group 4 **Thursday May 27th at 1-1:30PM ET**
     * [Van](https://twitter.com/VansDesign_)
     * [Sabet](https://twitter.com/sabet)
     * [CryptoMotors](https://twitter.com/CryptoMotors_io)
-    * [Twisted Vacancy](https://twitter.com/twistedvacancy)
     * [RTFKT](https://twitter.com/RTFKTstudios)
-    * [Ekaitza ](https://twitter.com/ekaitza_)
-    * [Giant Swan ](https://twitter.com/A_Giant_Swan)
+    * [Ekaitza](https://twitter.com/ekaitza_)
+    * [Giant Swan](https://twitter.com/A_Giant_Swan)
+    * [Godfrey Meyer](https://twitter.com/godfreymeyer)
 
 
 
