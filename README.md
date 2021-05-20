@@ -304,10 +304,10 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 
 ### Dark Ceremony of the Whaleotarians
-[![](https://i.imgur.com/Vrp33hP.gif)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/55)
+[![](https://i.imgur.com/Vrp33hP.gif)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/89)
 <p>They stand vigilant, offering fiat as a sacrifice...waiting for a sign. All cells for this were illustrated traditionally, with ink and brush, then digitally colored and animated.</p>
 
-[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/55](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/55)
+[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/89](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/89)
 
 ---
 ## John Orion Young (JOY)
@@ -462,25 +462,27 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ## Giant Swan
 * Twitter - [https://twitter.com/A_Giant_Swan](https://twitter.com/A_Giant_Swan)
+
+### A Pod of souls entwined and welling
+[![](https://i.imgur.com/5zQqPBq.jpg)
+](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88)
+<p>East of here, I remember seeing a group of souls bonding in their journey to warmer waters, their scale immense and their motion steeped in expression, it was hard not to look at them no different from us. Sculpted in Virtual Reality, 3820 x 2140 mp4</p>
+
+[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88)
+
 ---
+
+https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88
 
 ## Godfrey Meyer
 * Website [http://boomboxheads.com](http://boomboxheads.com)
 * Art - [https://superrare.co/godfreymeyer](https://superrare.co/godfreymeyer)
 * Twittter - [http://www.twitter.com/godfreymeyer](http://www.twitter.com/godfreymeyer)
 
-![](https://i.imgur.com/UB9KNAd.png)
-<p>Boomboxheads Collectibles are limited edition digital collectibles by cryptoartist Godfrey Meyer III. Boomboxheads are minted on the Ethereum blockchain as Non-Fungible-Tokens(NFT) and are available to collect on Rarible! Each Collectible NFT is cryptographically signed, numbered, and will be 1 of 10 editions per drop. If you are the first collector of an NFT in a drop,  you will be rewarded with a very rare #AudioNFT!  </p>
 
 ### Boomboxheads 3
-![](https://i.imgur.com/biTYIdR.jpg)
+[![](https://i.imgur.com/biTYIdR.jpg))
+](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details)
+<p>Boomboxheads Collectibles are limited edition digital collectibles by cryptoartist Godfrey Meyer III. Boomboxheads are minted on the Ethereum blockchain as Non-Fungible-Tokens(NFT) and are available to collect on Rarible! Each Collectible NFT is cryptographically signed, numbered, and will be 1 of 10 editions per drop. If you are the first collector of an NFT in a drop,  you will be rewarded with a very rare #AudioNFT!  </p>
 
 [https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details)
-### Boomboxheads 2
-![](https://i.imgur.com/pErbfnD.jpg)
-
-[https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:3:0x986ccf030a018f8190e7cf488ba9fec8df058199?tab=details](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:3:0x986ccf030a018f8190e7cf488ba9fec8df058199?tab=details)
-### Boomboxheads 1
-![](https://i.imgur.com/VFeJC21.jpg)
-
-[https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:1:0x6530bbae1272ed6c16f54e562b20385a910d4a24?tab=details](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:1:0x6530bbae1272ed6c16f54e562b20385a910d4a24?tab=details)
