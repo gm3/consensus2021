@@ -7,7 +7,13 @@
 Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
 
 ## Long The Metaverse VR Exhibition Overview
-"Long The Metaverse" VR Exhibition is a special event during CoinDesk Consensus 2021 featuring two galleries showing incredible works from top cryptoartists. We also will host multiple live streams with artist interviews over the course of four days. We invite you to come by the galleries! The spaces are accessible via VR Headset, Desktop PC in your browser, laptops or high end phones, and the streams will be available as archived VoDs after the event. We look forward to seeing you there!
+"Long The Metaverse" VR Exhibition is a special event during CoinDesk Consensus 2021 featuring two galleries showing incredible works from top cryptoartists in various mediums. We will host multiple live streams with artist interviews over the course of four days.
+
+We invite you to come by the galleries, and check out the live streams! The spaces are accessible via a VR Headset, Desktop PC in your browser, laptops or on high end phones. The streams will also be available as archived VoDs after the event. We look forward to seeing you there!
+
+
+<p>The artists will be getting together for roundtable talks and panels inside VR. They will be going live for 30 minutes during the CoinDesk event to talk about NFTs, VR, and the metaverse.</p>
+
 
 Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Hackatao](https://twitter.com/Hackatao), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [FrankyNines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [RTFKT](https://twitter.com/RTFKTstudios), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
@@ -78,11 +84,6 @@ VR Talk Date(s):
     * [Ekaitza](https://twitter.com/ekaitza_)
     * [Giant Swan](https://twitter.com/A_Giant_Swan)
     * [Godfrey Meyer](https://twitter.com/godfreymeyer)
-
-
-
-
-<p>The artists will be getting together for roundtable talks and panels inside VR. They will be going live for 30 minutes during the CoinDesk event to talk about NFTs, VR, and the metaverse.</p>
 
 ![](https://i.imgur.com/x6hz1R9.jpg)
 
