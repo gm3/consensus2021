@@ -21,7 +21,7 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 [![](https://i.imgur.com/8kDMoD3.png)
 ](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
 
-
+<p>You can access the galleries in VR, or on a PC. It is highly reccomended that you use a gaming PC, or a high end GPU for the best viewing expierence. </p>
 
 ---
 Exhibit A: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
