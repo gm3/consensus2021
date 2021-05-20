@@ -47,23 +47,23 @@ Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/adored-
 VR Talk Date(s):
 
 
-* Group 1 **Monday May 24th at 1-1:30PM ET**
+* Group 1 **Monday May 24th at 1-1:30PM ET** (Live Broadcast)
     * [Skeenee](https://twitter.com/skeenee_art)
-    * [Rare Designer](https://twitter.com/pepe_designer)
-    * [Legendary](https://twitter.com/Legendary_NFT)
+    * [George Boya](https://twitter.com/BoyaGeorge)
     * [Alotta Money](https://twitter.com/money_alotta)
+    * [Rare Designer](https://twitter.com/pepe_designer)
     * [Reinhard](https://twitter.com/Reinhard_Schmid)
     * [Sturec](https://twitter.com/sturec5)
 
-* Group 2 TBD **Tuesday May 25th at 2:30-3PM ET**
-    * [Brendan Dawes](https://twitter.com/brendandawes)
+* Group 2 TBD **Tuesday May 25th at 2:30-3PM ET** (Live Broadcast)
     * [Arsenic Lullaby](https://twitter.com/arsenic_lullaby)
     * [Franky Nines](https://twitter.com/frankynines)
-    * [George Boya](https://twitter.com/BoyaGeorge)
+    * [Legendary](https://twitter.com/Legendary_NFT)
     * [Didier RA](https://twitter.com/DidierRA1)
     * [Twisted Vacancy](https://twitter.com/twistedvacancy)
+    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
 
-* Group 3 **Wednesday May 26th at 2:30-3PM ET**
+* Group 3 **Wednesday May 26th at 2:30-3PM ET** (Live Broadcast)
     * [Coldie](https://twitter.com/Coldie)
     * [Spaced Painter](https://twitter.com/SpacedPainter)
     * [Josie](https://twitter.com/josiebellini)
@@ -72,13 +72,14 @@ VR Talk Date(s):
     * [DankVR](https://twitter.com/dankvr)
     * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
-* Group 4 **Thursday May 27th at 1-1:30PM ET**
+* Group 4 **Thursday May 27th at 1-1:30PM ET** (Live Broadcast)
     * [Van](https://twitter.com/VansDesign_)
     * [Sabet](https://twitter.com/sabet)
     * [Ekaitza](https://twitter.com/ekaitza_)
     * [Giant Swan](https://twitter.com/A_Giant_Swan)
     * [Godfrey Meyer](https://twitter.com/godfreymeyer)
-    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
+    * [Brendan Dawes](https://twitter.com/brendandawes)
+
 
 ![](https://i.imgur.com/x6hz1R9.jpg)
 
