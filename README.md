@@ -40,28 +40,31 @@ Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/adored-
 ---
 ## Schedule
 
-#### Main Event Dates: **Mon 24th to the Thurs 27th**
+#### Main Event Dates: **Mon 24th to the Thurs 27th** [Consensus 2021 Website](https://www.coindesk.com/events/consensus-2021)
 
-![](https://i.imgur.com/vhbdOfF.jpg)
+![](https://i.imgur.com/mLrlt3M.jpg)
+
+
 
 VR Talk Date(s):
 
 
 * Group 1 **Monday May 24th at 1-1:30PM ET** (Live Broadcast)
     * [Skeenee](https://twitter.com/skeenee_art)
+    * [Rare Designer](https://twitter.com/pepe_designer)
     * [George Boya](https://twitter.com/BoyaGeorge)
     * [Alotta Money](https://twitter.com/money_alotta)
-    * [Rare Designer](https://twitter.com/pepe_designer)
     * [Reinhard](https://twitter.com/Reinhard_Schmid)
     * [Sturec](https://twitter.com/sturec5)
 
 * Group 2 TBD **Tuesday May 25th at 2:30-3PM ET** (Live Broadcast)
+    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
     * [Arsenic Lullaby](https://twitter.com/arsenic_lullaby)
     * [Franky Nines](https://twitter.com/frankynines)
     * [Legendary](https://twitter.com/Legendary_NFT)
     * [Didier RA](https://twitter.com/DidierRA1)
     * [Twisted Vacancy](https://twitter.com/twistedvacancy)
-    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
+
 
 * Group 3 **Wednesday May 26th at 2:30-3PM ET** (Live Broadcast)
     * [Coldie](https://twitter.com/Coldie)
