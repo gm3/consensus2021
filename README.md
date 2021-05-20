@@ -322,9 +322,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/62](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/62)
 
 ---
-## Franky Nines
-* Twitter - [https://twitter.com/frankynines](https://twitter.com/frankynines)
----
+
 ## George Boya
 * Twitter - [https://twitter.com/BoyaGeorge](https://twitter.com/BoyaGeorge)
 ### Whale Rider
@@ -354,10 +352,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/65](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/65)
 
 ---
-## Rare Designer
-* Twitter - [https://twitter.com/pepe_designer](https://twitter.com/pepe_designer)
 
----
 ## Legendary
 * Twitter - [https://twitter.com/Legendary_NFT](https://twitter.com/Legendary_NFT)
 
@@ -417,10 +412,6 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/66](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/66)
 
-
-## Hackatao
-* Twitter - [https://twitter.com/Hackatao](https://twitter.com/Hackatao)
-
 ---
 ## Van
 * Twitter - [https://twitter.com/VansDesign_](https://twitter.com/VansDesign_)
@@ -445,10 +436,6 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ---
 
-## RTFKT
-* Twitter - [https://twitter.com/RTFKTstudios](https://twitter.com/RTFKTstudios)
-
----
 ## Ekaitza
 * Twitter - [https://twitter.com/ekaitza_](https://twitter.com/ekaitza_)
 
@@ -486,3 +473,31 @@ https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88
 <p>Boomboxheads Collectibles are limited edition digital collectibles by cryptoartist Godfrey Meyer III. Boomboxheads are minted on the Ethereum blockchain as Non-Fungible-Tokens(NFT) and are available to collect on Rarible! Each Collectible NFT is cryptographically signed, numbered, and will be 1 of 10 editions per drop. If you are the first collector of an NFT in a drop,  you will be rewarded with a very rare #AudioNFT!  </p>
 
 [https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details)
+
+___
+
+## Franky Nines
+* Twitter - [https://twitter.com/frankynines](https://twitter.com/frankynines)
+
+### City Balaenoptera
+[![](https://i.imgur.com/by7rDFI.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69)
+<p>The blue whale, one of the most majestic creatures on this planet swims by like a train moving through a city of coral.</p>
+
+[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69)
+
+---
+
+## RTFKT
+* Twitter - [https://twitter.com/RTFKTstudios](https://twitter.com/RTFKTstudios)
+
+---
+
+## Hackatao
+* Twitter - [https://twitter.com/Hackatao](https://twitter.com/Hackatao)
+
+---
+
+## Rare Designer
+* Twitter - [https://twitter.com/pepe_designer](https://twitter.com/pepe_designer)
+
+---
