@@ -17,9 +17,7 @@ Production: [Godfrey Meyer](https://twitter.com/godfreymeyer)
 Curators: [Annissa Whale](https://twitter.com/whale_community), [DeCryptolorian(DC)](https://twitter.com/whale_community)
 Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/whale_community), [Discord](https://discord.gg/whale)
 
-
-[![](https://i.imgur.com/8kDMoD3.png)
-](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+![](https://i.imgur.com/q6lEtLj.jpg)
 
 <p>You can access the galleries in VR, or on a PC. It is highly reccomended that you use a gaming PC, or a high end GPU for the best viewing expierence. </p>
 
