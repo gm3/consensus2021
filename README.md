@@ -40,8 +40,10 @@ Exhibit B: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hu
 
 ---
 ## Schedule
+
 #### Main Event Dates: **Mon 24th to the Thurs 27th**
 VR Talk Date(s):
+![](https://i.imgur.com/vhbdOfF.jpg)
 
 * Group 1 **Monday May 24th at 1-1:30PM ET**
     * [Skeenee](https://twitter.com/skeenee_art)
