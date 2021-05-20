@@ -25,17 +25,18 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 
 ---
 Exhibit A: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
-
-
----
-
-Exhibit B: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hubs.mozilla.com/acukD72/adored-solid-roundtable)
-
-
----
-
-
 [![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+
+---
+
+Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hubs.mozilla.com/acukD72/adored-solid-roundtable)
+[![](https://i.imgur.com/ymC71Bk.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+
+
+---
+
+
+
 
 
 ---
@@ -84,6 +85,9 @@ VR Talk Date(s):
 
 
 <p>The artists will be getting together for roundtable talks and panels inside VR. They will be going live for 30 minutes during the CoinDesk event to talk about NFTs, VR, and the metaverse.</p>
+
+![](https://i.imgur.com/x6hz1R9.jpg)
+
 
 ---
 # Artists / Works On Display
