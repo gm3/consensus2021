@@ -41,8 +41,11 @@ Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/adored-
 ## Schedule
 
 #### Main Event Dates: **Mon 24th to the Thurs 27th**
-VR Talk Date(s):
+
 ![](https://i.imgur.com/vhbdOfF.jpg)
+
+VR Talk Date(s):
+
 
 * Group 1 **Monday May 24th at 1-1:30PM ET**
     * [Skeenee](https://twitter.com/skeenee_art)
