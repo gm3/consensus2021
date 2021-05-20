@@ -15,7 +15,7 @@ We invite you to come by the galleries, and check out the live streams! The spac
 <p>The artists will be getting together for roundtable talks and panels inside VR. They will be going live for 30 minutes during the CoinDesk event to talk about NFTs, VR, and the metaverse.</p>
 
 
-Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Hackatao](https://twitter.com/Hackatao), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [FrankyNines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [RTFKT](https://twitter.com/RTFKTstudios), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
+Featured artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [FrankyNines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
 
 Event Manager: [Stephanie Izquieta]()
@@ -54,11 +54,9 @@ VR Talk Date(s):
     * [Alotta Money](https://twitter.com/money_alotta)
     * [Reinhard](https://twitter.com/Reinhard_Schmid)
     * [Sturec](https://twitter.com/sturec5)
-    * [Hackatao](https://twitter.com/Hackatao)
 
 * Group 2 TBD **Tuesday May 25th at 2:30-3PM ET**
     * [Brendan Dawes](https://twitter.com/brendandawes)
-    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
     * [Arsenic Lullaby](https://twitter.com/arsenic_lullaby)
     * [Franky Nines](https://twitter.com/frankynines)
     * [George Boya](https://twitter.com/BoyaGeorge)
@@ -77,10 +75,10 @@ VR Talk Date(s):
 * Group 4 **Thursday May 27th at 1-1:30PM ET**
     * [Van](https://twitter.com/VansDesign_)
     * [Sabet](https://twitter.com/sabet)
-    * [RTFKT](https://twitter.com/RTFKTstudios)
     * [Ekaitza](https://twitter.com/ekaitza_)
     * [Giant Swan](https://twitter.com/A_Giant_Swan)
     * [Godfrey Meyer](https://twitter.com/godfreymeyer)
+    * [Bryan Brinkman](https://twitter.com/bryanbrinkman)
 
 ![](https://i.imgur.com/x6hz1R9.jpg)
 
@@ -484,16 +482,6 @@ ___
 <p>The blue whale, one of the most majestic creatures on this planet swims by like a train moving through a city of coral.</p>
 
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69)
-
----
-
-## RTFKT
-* Twitter - [https://twitter.com/RTFKTstudios](https://twitter.com/RTFKTstudios)
-
----
-
-## Hackatao
-* Twitter - [https://twitter.com/Hackatao](https://twitter.com/Hackatao)
 
 ---
 
