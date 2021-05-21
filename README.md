@@ -23,7 +23,7 @@ Production: [Godfrey Meyer](https://twitter.com/godfreymeyer)
 Curators: [Annissa Whale](https://twitter.com/whale_community), [DeCryptolorian(DC)](https://twitter.com/whale_community)
 Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/whale_community), [Discord](https://discord.gg/whale)
 
-![](https://i.imgur.com/q6lEtLj.jpg)
+![](https://i.imgur.com/86gFB7s.jpg)
 
 <p>You can access the galleries in VR, or on a PC. It is highly reccomended that you use a gaming PC, or a high end GPU for the best viewing expierence. </p>
 
@@ -43,6 +43,7 @@ Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/coindes
 #### Main Event Dates: **Mon 24th to the Thurs 27th** [Consensus 2021 Website](https://www.coindesk.com/events/consensus-2021)
 
 ![](https://i.imgur.com/dGaZHKs.jpg)
+
 
 
 VR Talk Date(s):
