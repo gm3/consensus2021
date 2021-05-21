@@ -33,8 +33,8 @@ Exhibit A: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.
 
 ---
 
-Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/adored-solid-roundtable](https://hubs.mozilla.com/acukD72/adored-solid-roundtable)
-[![](https://i.imgur.com/ymC71Bk.jpg)](https://hubs.mozilla.com/acukD72/adored-solid-roundtable)
+Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition](https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition)
+[![](https://i.imgur.com/ymC71Bk.jpg)](https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition)
 
 
 ---
