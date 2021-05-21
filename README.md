@@ -106,19 +106,22 @@ VR Talk Date(s):
 * Newsletter - [https://josiebellini.substack.com](https://josiebellini.substack.com)
 * Discord - [http://discord.gg/ZKk8MNN](http://discord.gg/ZKk8MNN)
 
-### "Forward Together - Bitcoin Edition #1/21"
-![](https://i.imgur.com/91OgJvB.jpg)
+### "Forward Together - Bitcoin Edition"
+
+[![](https://i.imgur.com/91OgJvB.jpg)](https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020)
 <p>Forward Together - Bitcoin Edition by Josie Bellini</p>
 
 
 [https://opensea.io/assets/josie?query=tune%20in](https://opensea.io/assets/josie?query=tune%20in)
 
-### "Yours Truly"
-![](https://i.imgur.com/GkUYFow.jpg)
+### "Forward Together - Ethereum Edition"
+
+[![](https://i.imgur.com/GkUYFow.jpg)](https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020)
+
 <p>"Yours Truly" puzzle was made in collaboration with Neon District, Twisted Vacancy, Age of Rust, Axie Infinity, Cryptokitties, Cryptovoxels, Opensea, and SuperRare.</p>
 
 
-[https://opensea.io/assets/josie?query=yours%20truly](https://opensea.io/assets/josie?query=yours%20truly)
+[https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020](https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020)
 
 ---
 ## Spaced Painter
@@ -313,7 +316,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## John Orion Young (JOY)
 * Twitter - [https://twitter.com/JohnOrionYoung](https://twitter.com/JohnOrionYoung)
-### Be Whale and Prosper
+### Whale Flip-Side
 
 
 
@@ -477,7 +480,7 @@ https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88
 
 ___
 
-## Franky Nines
+## FrankyNines
 * Twitter - [https://twitter.com/frankynines](https://twitter.com/frankynines)
 
 ### City Balaenoptera
@@ -490,5 +493,12 @@ ___
 
 ## Rare Designer
 * Twitter - [https://twitter.com/pepe_designer](https://twitter.com/pepe_designer)
+
+### WHALE Universe
+[![](https://i.imgur.com/Chg2PV1.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/90)
+<p>Cyborg Whale live in the depths of space. Sliding travelers who transit space. Art inspired by the genus Cyberpunk.</p>
+
+[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/90](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/90)
+
 
 ---
