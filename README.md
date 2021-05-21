@@ -1,7 +1,6 @@
 [Link To This Information](https://gm3.github.io/consensus2021/)
 ![](https://i.imgur.com/0iiGmW4.png)
 
-
 # CoinDesk Consensus 2021
 
 Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
@@ -28,8 +27,8 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 <p>You can access the galleries in VR, or on a PC. It is highly reccomended that you use a gaming PC, or a high end GPU for the best viewing expierence. </p>
 
 ---
-Exhibit A: [https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
-[![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/Ryb84wJ/twin-homely-universe)
+Exhibit A: [https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
+[![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
 
 ---
 
