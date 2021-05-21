@@ -5,6 +5,8 @@
 
 Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
 
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/nfwNx9IGaCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Long The Metaverse VR Exhibition Overview
 "Long The Metaverse" VR Exhibition is a special event during CoinDesk Consensus 2021 featuring two galleries showing incredible works from top cryptoartists in various mediums. We will host multiple live streams with artist interviews over the course of four days.
 
