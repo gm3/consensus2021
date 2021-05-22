@@ -29,12 +29,13 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 <p>You can access the galleries in VR, or on a PC. It is highly reccomended that you use a gaming PC, or a high end GPU for the best viewing expierence. </p>
 
 ---
-Exhibit A: [https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
+Public Exhibit A: [Instance 1](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a), [Instance 2](https://hubs.mozilla.com/eieKuTN/consensus2021-vr-nft-exhibit-a-instance-2), [Instance 3](https://hubs.mozilla.com/fDxod3E/consensus2021-vr-nft-exhibit-a-instance-3) (24 Users Max Per Room, you can also create a [private instance](https://hubs.mozilla.com/scenes/zdw7jur) if you would like)
 [![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
 
 ---
+***High End PC/MACs Only***:
+Public Exhibit B: [Instance 1](https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition), [Instance 2](https://hubs.mozilla.com/fVXRiYt/coindesk-consensus-2021-vr-nft-exhibit-b-instance-2), [Instance 3](https://hubs.mozilla.com/f8wJ6Y5/coindesk-consensus-2021-vr-nft-exhibit-b-instance-3) (24 Users Max Per Room, you can also create a [private instance](https://hubs.mozilla.com/scenes/kZU2C6d) if you would like)
 
-Exhibit B ***High End PC/MACs Only***: [https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition](https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition)
 [![](https://i.imgur.com/ymC71Bk.jpg)](https://hubs.mozilla.com/acukD72/coindesk-consensus-2021-vr-exposition)
 
 
