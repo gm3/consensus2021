@@ -47,7 +47,9 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 
 #### Main Event Dates: **Mon 24th to the Thurs 27th** [Consensus 2021 Website](https://www.coindesk.com/events/consensus-2021)
 
-![](https://i.imgur.com/dGaZHKs.jpg)
+
+![](https://i.imgur.com/MoHbOTs.jpg)
+
 
 
 
