@@ -477,12 +477,31 @@ https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88
 * Twittter - [http://www.twitter.com/godfreymeyer](http://www.twitter.com/godfreymeyer)
 
 
-### Boomboxheads 3
-[![](https://i.imgur.com/biTYIdR.jpg))
-](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details)
-<p>Boomboxheads Collectibles are limited edition digital collectibles by cryptoartist Godfrey Meyer III. Boomboxheads are minted on the Ethereum blockchain as Non-Fungible-Tokens(NFT) and are available to collect on Rarible! Each Collectible NFT is cryptographically signed, numbered, and will be 1 of 10 editions per drop. If you are the first collector of an NFT in a drop,  you will be rewarded with a very rare #AudioNFT!  </p>
 
-[https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details](https://rarible.com/token/0xcaaf7428dcecb3dc4f9736db65d5b3d0b8de6bee:5:0xa1c78ed146a8693a8cf3d29385bc54cd3f145b4a?tab=details)
+### Virtual Museum
+[![](https://i.imgur.com/XN9vSTG.png)
+](https://superrare.co/artwork-v2/virtual-museum-18135)
+<p>The doors were locked when we tried
+to knock. Left outside, we had no
+choice, but to build our own museums
+out of holograms. About the work 4k
+x 4k // Mixed Media Digital /
+Cinema4d / Octane / Photoshop.</p>
+
+[https://superrare.co/artwork-v2/virtual-museum-18135](https://superrare.co/artwork-v2/virtual-museum-18135)
+
+___
+
+### Learning To Human
+[![](https://i.imgur.com/FKzFasl.jpg)](https://superrare.co/artwork-v2/learning-to-human-23652)
+<p>Researching, programming, seeking,
+searching, sorting, building,
+destroying, experiencing, failing,
+winning, losing, gaining, receiving,
+giving. We are just learning to human.
+Can you see the painter/</p>
+
+[https://superrare.co/artwork-v2/learning-to-human-23652](https://superrare.co/artwork-v2/learning-to-human-23652)
 
 ___
 
