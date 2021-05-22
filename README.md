@@ -32,7 +32,7 @@ Whale Community: [Website](https://whale.me/), [Twitter](https://twitter.com/wha
 ### Public Exhibit A:
 
  [Instance 1](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a), [Instance 2](https://hubs.mozilla.com/eieKuTN/consensus2021-vr-nft-exhibit-a-instance-2), [Instance 3](https://hubs.mozilla.com/fDxod3E/consensus2021-vr-nft-exhibit-a-instance-3) (24 Users Max Per Room, you can also create a [private instance](https://hubs.mozilla.com/scenes/zdw7jur) if you would like)
-[![](https://i.imgur.com/OGere55.jpg)](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
+[![](https://i.imgur.com/UHOSfH1.png)](https://hubs.mozilla.com/GGDie9Y/consensus2021-vr-nft-exhibit-a)
 
 ---
 ### Public Exhibit B:
