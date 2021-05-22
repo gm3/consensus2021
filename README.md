@@ -130,6 +130,42 @@ VR Talk Date(s):
 [https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020](https://opensea.io/assets/0x3d9b128ce781a4a9c1057f785d97131a6357ca38/4700030020)
 
 ---
+
+## Godfrey Meyer
+* Website [http://boomboxheads.com](http://boomboxheads.com)
+* Art - [https://superrare.co/godfreymeyer](https://superrare.co/godfreymeyer)
+* Twittter - [http://www.twitter.com/godfreymeyer](http://www.twitter.com/godfreymeyer)
+
+
+
+### Virtual Museum
+[![](https://i.imgur.com/XN9vSTG.png)
+](https://superrare.co/artwork-v2/virtual-museum-18135)
+<p>The doors were locked when we tried
+to knock. Left outside, we had no
+choice, but to build our own museums
+out of holograms. About the work 4k
+x 4k // Mixed Media Digital /
+Cinema4d / Octane / Photoshop.</p>
+
+[https://superrare.co/artwork-v2/virtual-museum-18135](https://superrare.co/artwork-v2/virtual-museum-18135)
+
+___
+
+### Learning To Human
+[![](https://i.imgur.com/FKzFasl.jpg)](https://superrare.co/artwork-v2/learning-to-human-23652)
+<p>Researching, programming, seeking,
+searching, sorting, building,
+destroying, experiencing, failing,
+winning, losing, gaining, receiving,
+giving. We are just learning to human.
+Can you see the painter/</p>
+
+[https://superrare.co/artwork-v2/learning-to-human-23652](https://superrare.co/artwork-v2/learning-to-human-23652)
+
+___
+
+
 ## Spaced Painter
 * Twitter - [https://twitter.com/SpacedPainter](https://twitter.com/SpacedPainter)
 * Art - [https://niftygateway.com/collections/spacedpainteropen](https://niftygateway.com/collections/spacedpainteropen)
@@ -310,6 +346,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Arsenic Lullaby
 * Twitter - [https://twitter.com/arsenic_lullaby](https://twitter.com/arsenic_lullaby)
+* Art - [https://makersplace.com/arseniclullaby/](https://makersplace.com/arseniclullaby/)
 
 
 
@@ -322,6 +359,8 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## John Orion Young (JOY)
 * Twitter - [https://twitter.com/JohnOrionYoung](https://twitter.com/JohnOrionYoung)
+* Discord - [http://discord.gg/hBv9BDD](http://discord.gg/hBv9BDD)
+* Art - [https://opensea.io/collection/joyworld-s2](https://opensea.io/collection/joyworld-s2)
 ### Whale Flip-Side
 
 
@@ -335,6 +374,11 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ## George Boya
 * Twitter - [https://twitter.com/BoyaGeorge](https://twitter.com/BoyaGeorge)
+* Async - [https://async.art/u/georgeboya](https://async.art/u/georgeboya)
+* MakersPlace - [http://makersplace.com/georgeboya/](http://makersplace.com/georgeboya/)
+* SuperRare - [http://superrare.co/george%20boya](http://superrare.co/george%20boya)
+
+
 ### Whale Rider
 
 [![](https://i.imgur.com/vWQwrab.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/61)
@@ -344,6 +388,14 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ---
 ## Didler RA
+* Twitter - [https://twitter.com/DidierRA1](https://twitter.com/DidierRA1)
+* OpenSea - [http://opensea.io/assets/didierra](http://opensea.io/assets/didierra)
+* Rarible - [http://app.rarible.com/didierra](http://app.rarible.com/didierra)
+
+
+
+
+
 ### THE STUNNING WHALEGIRL
 [![](https://i.imgur.com/m4JrMLd.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/58)
 <p>Third character from the CYBER FREAK CIRCUS</p>
@@ -365,6 +417,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ## Legendary
 * Twitter - [https://twitter.com/Legendary_NFT](https://twitter.com/Legendary_NFT)
+* Art - [makersplace.com/legendary](https://makersplace.com/legendary)
 
 ### A Moment In Eternity
 [![](https://i.imgur.com/sUNygfK.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/70)
@@ -376,6 +429,8 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Alotta Money
 * Twitter - [https://twitter.com/money_alotta](https://twitter.com/money_alotta)
+* Website - [https://alottamoney.com/](https://alottamoney.com/)
+* NFTs - [https://alottamoney.com/nfts/](https://alottamoney.com/nfts/)
 
 
 ### Where There's A Whale
@@ -388,6 +443,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Twisted Vacancy
 * Twitter - [https://twitter.com/twistedvacancy](https://twitter.com/twistedvacancy)
+* Art [https://superrare.co/twistedvacancyart](https://superrare.co/twistedvacancyart)
 
 ### Sage Of The Sea
 [![](https://i.imgur.com/aOhczrA.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/67)
@@ -400,6 +456,9 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Reinhard Schmid
 * Twitter - [https://twitter.com/Reinhard_Schmid](https://twitter.com/Reinhard_Schmid)
+* Art - [https://linktr.ee/Reinhard_Schmid](https://linktr.ee/Reinhard_Schmid)
+
+
 
 ### WhaleWatch
 [![](https://i.imgur.com/5TLPLeT.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/64)
@@ -413,6 +472,11 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ## Sturec
 
 * Twitter - [https://twitter.com/sturec5](https://twitter.com/sturec5)
+* SuperRare - [superrare.co/sturec](https://superrare.co/sturec)
+* MakersPlace - [http://makersplace.com/sturec/](http://makersplace.com/sturec/)
+* LinkTree - [http://linktr.ee/sturec](http://linktr.ee/sturec)
+
+
 
 ### Kwhaleidoscope
 [![](https://i.imgur.com/s5ndzDv.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/66)
@@ -425,6 +489,9 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Van
 * Twitter - [https://twitter.com/VansDesign_](https://twitter.com/VansDesign_)
+* Website - [https://vansdesign.net/](https://vansdesign.net/)
+* Twerl - [https://tw-rl.com/VansDesign_/?group=61-nfts](https://tw-rl.com/VansDesign_/?group=61-nfts)
+* CryptoArt - [https://vansdesign.net/cryptoart](https://vansdesign.net/cryptoart)
 
 ### NEOWHALE
 [![](https://i.imgur.com/5v4YQqW.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/68)
@@ -435,6 +502,9 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 ---
 ## Sabet
 * Twitter - [https://twitter.com/sabet](https://twitter.com/sabet)
+* OpenSea - [https://opensea.io/collection/real-love](https://opensea.io/collection/real-love)
+* Links - [https://hoo.be/sabet](https://hoo.be/sabet)
+* Website - [https://www.sabet.art/](https://www.sabet.art/)
 
 
 ### 3rd Vortex 2021 Sabet
@@ -448,6 +518,7 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ## Ekaitza
 * Twitter - [https://twitter.com/ekaitza_](https://twitter.com/ekaitza_)
+* SuperRare - [superrare.co/ekaitza](https://superrare.co/ekaitza)
 
 ### Be Whale and Prosper
 [![](https://i.imgur.com/1DlbeoQ.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/59)
@@ -459,6 +530,8 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 
 ## Giant Swan
 * Twitter - [https://twitter.com/A_Giant_Swan](https://twitter.com/A_Giant_Swan)
+* Nifty Gateway [https://niftygateway.com/collections/giantswan](https://niftygateway.com/collections/giantswan)
+* OpenSea [https://opensea.io/collection/giant-swan](https://opensea.io/collection/giant-swan)
 
 ### A Pod of souls entwined and welling
 [![](https://i.imgur.com/5zQqPBq.jpg)
@@ -468,45 +541,11 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 [https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88)
 
 ---
-
-https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/88
-
-## Godfrey Meyer
-* Website [http://boomboxheads.com](http://boomboxheads.com)
-* Art - [https://superrare.co/godfreymeyer](https://superrare.co/godfreymeyer)
-* Twittter - [http://www.twitter.com/godfreymeyer](http://www.twitter.com/godfreymeyer)
-
-
-
-### Virtual Museum
-[![](https://i.imgur.com/XN9vSTG.png)
-](https://superrare.co/artwork-v2/virtual-museum-18135)
-<p>The doors were locked when we tried
-to knock. Left outside, we had no
-choice, but to build our own museums
-out of holograms. About the work 4k
-x 4k // Mixed Media Digital /
-Cinema4d / Octane / Photoshop.</p>
-
-[https://superrare.co/artwork-v2/virtual-museum-18135](https://superrare.co/artwork-v2/virtual-museum-18135)
-
-___
-
-### Learning To Human
-[![](https://i.imgur.com/FKzFasl.jpg)](https://superrare.co/artwork-v2/learning-to-human-23652)
-<p>Researching, programming, seeking,
-searching, sorting, building,
-destroying, experiencing, failing,
-winning, losing, gaining, receiving,
-giving. We are just learning to human.
-Can you see the painter/</p>
-
-[https://superrare.co/artwork-v2/learning-to-human-23652](https://superrare.co/artwork-v2/learning-to-human-23652)
-
-___
-
 ## FrankyNines
 * Twitter - [https://twitter.com/frankynines](https://twitter.com/frankynines)
+* Website - [https://www.frankyaguilar.com/crypto](https://www.frankyaguilar.com/crypto)
+* KO - [https://knownorigin.io/frankynines](https://knownorigin.io/frankynines)
+* SuperRare - [https://superrare.co/frankynines](https://superrare.co/frankynines)
 
 ### City Balaenoptera
 [![](https://i.imgur.com/by7rDFI.jpg)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/69)
@@ -518,6 +557,7 @@ ___
 
 ## Rare Designer
 * Twitter - [https://twitter.com/pepe_designer](https://twitter.com/pepe_designer)
+* Known Origin - [https://knownorigin.io/rare-designer](https://knownorigin.io/rare-designer)
 
 ### WHALE Universe
 [![](https://i.imgur.com/Chg2PV1.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/90)
