@@ -95,17 +95,7 @@ VR Talk Date(s):
 ---
 # Artists / Works On Display
 
-## Coldie
-* Twitter - [https://twitter.com/coldie](https://twitter.com/coldie)
-* Art - [https://superrare.co/coldie](https://superrare.co/coldie)
-* Website - [https://coldie3d.com/](https://coldie3d.com/)
-### The Lost Vitalik - Decentral Eyes 3d
-[![](https://i.imgur.com/OFXHLWv.jpg)](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
-<p>My first release in 2018 on R.A.R.E Art Labs was of Vitalik Buterin, the first portrait of the Decentral Eyes Portrait Series. Before I was making 3D animated rotations with my portraits, I was creating true stereoscopic 3D artworks that viewers use red/blue 3D glasses to see depth in the image. Since the crypto art space was so brand new in 2018, this artwork went unnoticed for over a year. As the technology evolved and I saw the value of ERC-721 NFTs, I chose to burn all my unsold tokens on R.A.R.E., thus rewarding early collectors and improving scarcity. Since no one bought the original ERC-20 token of Vitalik, it sat in my digital archives as the Decentral Eyes series continued to evolve. I chose to release this as a 1/1 on Super Rare to give it its proper place as an ERC-721 NFT, especially as this is a first of style artwork and the genesis artwork of the entire Decentral Eyes series that has evolved so much since this work was created. Dimensions: 3200px x 4000px, JPEG This artwork also comes with a signed pair of Coldie/Hackatao 3D glasses with the name of this piece noted on the glasses frame. The red/blue lenses show the image in stereoscopic 3D with the depth it was intended to be seen.</p>
 
-[https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
-
----
 ## Josie
 * Twitter - [https://twitter.com/josiebellini](https://twitter.com/josiebellini)
 * Website - [https://josie.io/](https://josie.io/)
@@ -192,6 +182,18 @@ ___
 [https://niftygateway.com/itemdetail/primary/0x3fb52e5eb205ffa14a0190f77287f7fa2ec593df/3](https://niftygateway.com/itemdetail/primary/0x3fb52e5eb205ffa14a0190f77287f7fa2ec593df/3)
 
 ---
+## Coldie
+* Twitter - [https://twitter.com/coldie](https://twitter.com/coldie)
+* Art - [https://superrare.co/coldie](https://superrare.co/coldie)
+* Website - [https://coldie3d.com/](https://coldie3d.com/)
+### The Lost Vitalik - Decentral Eyes 3d
+[![](https://i.imgur.com/OFXHLWv.jpg)](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
+<p>The Lost Vitalik - Decentral Eyes 3d</p>
+
+[https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
+
+---
+
 ## CryptoSpectr
 * Twitter - [https://twitter.com/cryptospectr](https://twitter.com/cryptospectr)
 * Art - [https://www.superrare.co/cryptospectr](https://www.superrare.co/cryptospectr)
