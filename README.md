@@ -492,11 +492,11 @@ The Archive's vision is to build a version 2 Library of Alexandria and provide U
 * Twerl - [https://tw-rl.com/VansDesign_/?group=61-nfts](https://tw-rl.com/VansDesign_/?group=61-nfts)
 * CryptoArt - [https://vansdesign.net/cryptoart](https://vansdesign.net/cryptoart)
 
-### NEOWHALE
-[![](https://i.imgur.com/5v4YQqW.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/68)
-<p>And the people bowed and prayed to the neon god they made</p>
+### Whale Explorer
+[![](https://i.imgur.com/84kZ63U.png)](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/91)
+<p>In search of unexplored worlds</p>
 
-[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/68](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/68)
+[https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/91](https://opensea.io/assets/0xf6c71e1e72254051f2e26270c16a84fbd1dbfafd/91)
 
 ---
 ## Sabet
