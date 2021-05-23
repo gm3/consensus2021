@@ -16,7 +16,7 @@ We invite you to come by the galleries, and check out the live streams! The spac
 <p>The artists will be getting together for roundtable talks, inside VR, for 30 minutes during the CoinDesk event to talk about works and NFTs in the metaverse.</p>
 
 
-Artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [FrankyNines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
+Artists: [Skeenee](https://twitter.com/skeenee_art), [Rare Designer](https://twitter.com/pepe_designer), [Legendary](https://twitter.com/Legendary_NFT), [Alotta Money](https://twitter.com/money_alotta), [Reinhard](https://twitter.com/Reinhard_Schmid), [Sturec](https://twitter.com/sturec5), [Brendan Dawes](https://twitter.com/brendandawes), [Bryan Brinkman](https://twitter.com/bryanbrinkman), [Arsenic Lullaby](https://twitter.com/arsenic_lullaby), [FrankyNines](https://twitter.com/frankynines), [George Boya](https://twitter.com/BoyaGeorge), [Didier RA](https://twitter.com/DidierRA1), [Giant Swan](https://twitter.com/A_Giant_Swan), [Coldie](https://twitter.com/Coldie), [Godfrey Meyer](https://twitter.com/godfreymeyer), [Spaced Painter](https://twitter.com/SpacedPainter), [CryptoSpectr](https://twitter.com/CryptoSpectr), [Josie](https://twitter.com/josiebellini), [Metageist](https://twitter.com/MetageistVR), [Marc0Matic](https://twitter.com/marc0matic), [DankVR](https://twitter.com/dankvr), [Van](https://twitter.com/VansDesign_), [Sabet](https://twitter.com/sabet), [Twisted Vacancy](https://twitter.com/twistedvacancy), [Ekaitza ](https://twitter.com/ekaitza_), [Giant Swan ](https://twitter.com/A_Giant_Swan), [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
 
 Event Manager: [Stephanie Izquieta]()
@@ -79,6 +79,7 @@ VR Talk Date(s):
     * [Josie](https://twitter.com/josiebellini)
     * [Metageist](https://twitter.com/MetageistVR)
     * [Marc0Matic](https://twitter.com/marc0matic)
+    * [CryptoSpectr](https://twitter.com/cryptospectr)
     * [DankVR](https://twitter.com/dankvr)
     * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
@@ -267,13 +268,7 @@ ___
 
 [https://superrare.co/artwork-v2/coveted-constructs-24127](https://superrare.co/artwork-v2/coveted-constructs-24127)
 
-### **The Original Oculus**
-[![](https://i.imgur.com/5W4tPWL.jpg)](https://superrare.co/artwork-v2/the-original-oculus-19253)
 
-
-<p>A biomechanical marvel and treasure of the Artist and Creator. For over a thousand years it was once thought that the Eyes functioned in similar ways to a torch, emanating beams of light out at the world and illuminating the objects we looked at. It was only through further dissection around the 17th Century that we realised that imagery captured by the lens of the eye was rendered upside down with our brains doing the heavy lifting of translating sensory information.</p>
-
-[https://superrare.co/artwork-v2/the-original-oculus-19253](https://superrare.co/artwork-v2/the-original-oculus-19253)
 ### **The S.V Squawker is now boarding**
 [![](https://i.imgur.com/r0AjVBL.jpg)](https://superrare.co/artwork-v2/the-s.v-squawker-is-now-boarding-17940)
 
