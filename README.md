@@ -191,7 +191,8 @@ ___
 * Website - [https://coldie3d.com/](https://coldie3d.com/)
 *
 ### Decentral Eyes 3D Portrait Series VR Collage 01
-![](https://i.imgur.com/OFXHLWv.jpg)
+![](https://i.imgur.com/uKGYcxg.png)
+
 <p>Airdrop to current Decentral Eyes NFT holders</p>
 
 
