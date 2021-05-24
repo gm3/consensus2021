@@ -1,9 +1,9 @@
 [Link To This Information](https://gm3.github.io/consensus2021/)
 ![](https://i.imgur.com/0iiGmW4.png)
 
-# CoinDesk Consensus 2021
+# CoinDesk Consensus 2021 Article
 
-Consensus by CoinDesk May 24-27, 2021 unites professionals across the globe for an immersive virtual experience aimed at exploring the evolution of cryptocurrency and blockchain technology. As CoinDesk’s largest event of the year, this four-day experience will bring together more than 10,000 attendees across a variety of educational panels, workshops, keynotes, fire-side chats, networking experiences and more for an up-close look at the good, the bad, the ups, the downs, the excesses and the optimism of crypto.
+Consensus CoinDesk May 24-27th has brought together some of the top crypto artists in the space for a legendary art exhibition inside VR!
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/nfwNx9IGaCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -189,11 +189,11 @@ ___
 * Twitter - [https://twitter.com/coldie](https://twitter.com/coldie)
 * Art - [https://superrare.co/coldie](https://superrare.co/coldie)
 * Website - [https://coldie3d.com/](https://coldie3d.com/)
-### The Lost Vitalik - Decentral Eyes 3d
-[![](https://i.imgur.com/OFXHLWv.jpg)](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
-<p>The Lost Vitalik - Decentral Eyes 3d</p>
+*
+### Decentral Eyes 3D Portrait Series VR Collage 01
+![](https://i.imgur.com/OFXHLWv.jpg)
+<p>Airdrop to current Decentral Eyes NFT holders</p>
 
-[https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380](https://superrare.co/artwork-v2/the-lost-vitalik---decentral-eyes-genesis-12380)
 
 ---
 
