@@ -81,7 +81,7 @@ VR Talk Date(s):
     * [Marc0Matic](https://twitter.com/marc0matic)
     * [CryptoSpectr](https://twitter.com/cryptospectr)
     * [DankVR](https://twitter.com/dankvr)
-    * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
+
 
 * Group 4 **Thursday May 27th at 1-1:30PM ET** (Live Broadcast)
     * [Van](https://twitter.com/VansDesign_)
@@ -90,6 +90,7 @@ VR Talk Date(s):
     * [Giant Swan](https://twitter.com/A_Giant_Swan)
     * [Godfrey Meyer](https://twitter.com/godfreymeyer)
     * [Brendan Dawes](https://twitter.com/brendandawes)
+    * [John Orion Young (JOY)](https://twitter.com/JohnOrionYoung)
 
 
 ![](https://i.imgur.com/x6hz1R9.jpg)
