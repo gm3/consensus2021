@@ -5,8 +5,6 @@
 
 Consensus CoinDesk May 24-27th has brought together some of the top crypto artists in the space for a legendary art exhibition inside VR!
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/nfwNx9IGaCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Long The Metaverse VR Exhibition Overview
 "Long The Metaverse" VR Exhibition is a special event during CoinDesk Consensus 2021 featuring two galleries showing incredible works from top cryptoartists in various mediums. We will host multiple live streams with artist interviews over the course of four days.
 
